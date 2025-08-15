@@ -1,9 +1,9 @@
 
-#!/bin/bash
+#!/bin/bas
 # pre-commit hook to show a fun GitHub message
 
 python3 - <<END
-import random
+import rando
 
 fun_messages = [
     "Hey coder! Remember, every bug you fix today is a mysterious feature someone will thank you for tomorrow. Keep pushing!",
