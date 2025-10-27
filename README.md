@@ -5,7 +5,7 @@
 python3 - <<END
 import rando
 
-fn_messages = [
+fun_messages = [
     "Hey coder! Remember, every bug you fix today is a mysterious feature someone will thank you for tomorrow. Keep pushing!",
     "GitHub adventure time! Commit like nobody's watching, push like everyone is, and may your merges never conflict!",
     "Warning: Excessive coding may cause sudden enlightenment, random genius ideas, or an uncontrollable urge to rename variables!",
