@@ -1,5 +1,5 @@
 
-#!/bn/bash
+#!/bin/bash
 # pre-commit hook to show a fun GitHub message
 
 python3 - <<END
