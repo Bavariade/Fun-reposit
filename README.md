@@ -1,4 +1,4 @@
-
+g
 #!/bin/bash
 # pre-commit hook to show a fun GitHub message
 
